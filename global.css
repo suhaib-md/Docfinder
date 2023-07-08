@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-saira-condensed: "Saira Condensed";
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-6xl: 25px;
+  --font-size-15xl: 34px;
+  --font-size-21xl: 40px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-black: #000;
+  --black: #010101;
+  --color-gray-100: #010000;
+  --color-white: #fff;
+  --color-maroon-100: #670a0a;
+
+  /* Gaps */
+  --gap-lg: 18px;
+  --gap-3xs: 10px;
+  --gap-3xl: 22px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+}
