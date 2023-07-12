@@ -32,7 +32,7 @@ if($result->num_rows > 0){
           <img class="vector-icon3" alt="" src="'.$doctorimage.'" />
         </div>
         <div class="find-best-doctors-parent">
-          <b class="find-best-doctors">'.$doctorname.'</b>
+          <div class="find-best-doctors">'.$doctorname.'</div>
           <div class="find-your-doctor-container1">'.$doctorcat.'</div>
         </div>
       </div>';

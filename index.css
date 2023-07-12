@@ -316,12 +316,13 @@
   height: 400px;
 }
 .easy-steps-and {
-  position: absolute;
+  position: relative;
   top: 7px;
   left: 61px;
   line-height: 90%;
   display: inline-block;
   width: 999px;
+  font-size:40px;
 }
 .vector-icon3 {
   position: relative;
@@ -344,9 +345,10 @@
   line-height: 90%;
   display: inline-block;
   width: 248px;
+  font-size:25px;
 }
 .find-your-doctor-container1 {
-  font-size: var(--font-size-3xl);
+  font-size:25px;
 }
 .find-best-doctors-parent {
   position: absolute;
@@ -360,7 +362,7 @@
 }
 .frame-group {
   position: relative;
-  top: 50px;
+  top: 0px;
   float:left;
   width: 248px;
   height: 206.17px;
@@ -430,7 +432,7 @@
 .group-div,
 .group-parent {
   position: absolute;
-  top: 29.83px;
+  top: 0px;
   left: 768px;
   width: 183px;
   height: 186.17px;
