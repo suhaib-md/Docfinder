@@ -6,9 +6,9 @@ $search_area = $_POST["area"];
 if(isset($_POST["search"]) && isset($_POST["area"])){
 
 $dbhost = "localhost";
-$dbname = "id21008293_doctor";
-$dbuser = "id21008293_doctor";
-$dbpassword = "abcdE@123";
+$dbname = "if0_37307142_doctor";
+$dbuser = "if0_37307142";
+$dbpassword = "infiniti126";
 
 $conn = new mysqli($dbhost,$dbuser,$dbpassword,$dbname);
 
